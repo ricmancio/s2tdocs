@@ -1,0 +1,15 @@
+template:
+    directory: .
+
+title: Documentazione
+# The left menu bar
+menu:
+    items:
+        transcribe:
+            text: Transcribe Docs
+            # You can use relative urls
+            relativeUrl: index.html
+        siti:
+            text: Sito aziendale
+            # Or absolute urls
+            absoluteUrl: https://refacturing.com
