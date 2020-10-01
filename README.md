@@ -15,6 +15,8 @@ con oggetto **transcribe: guida non ti capisco, ho una domanda** se avete una do
 
 La registrazione richiede di inserire dei dati, ad esempio una username, che sarà usata per il login e un’email a cui vi arriveranno le notifiche per le avvenute trascrizioni più i campi standard richiesti, vi troverete davanti ad una schermata come questa
 
+<img src="./images/signin.png" alt="drawing" width="400" style="margin:auto;"/>
+
 procedendo nella registrazione accettate la privacy policy, che vi segnalo di leggere, ma che in soldoni dice solo che i vostri dati sono usati per garantire il servizio e che potete farli cancellare comunicandomi la vostra scelta su info at(@) refacturing.com con l’oggetto “cancellazione dati servizio transcribe”  e dove nel corpo dovete indicarmi quale è la vostra username (Attenzione l’email usata deve essere la stessa di quella di registrazione e una volta cancellato l’account perderete l’accesso ai file precedenti)
 
 Una volta registrati dovreste ricevere un’email con un codice, quest’ultimo è necessario per completare la registrazione
@@ -56,7 +58,7 @@ Le trascrizioni al momento supportano solo la lingua italiana.
 La trascrizione è fatta da una macchina che si aspetta la lingua italiana, quindi il testo ottenuto andrà ricontrollato e ri-formattato, esempio se dite la parola inglese “Team" potrebbe scrivere “Tim" o se non scandite bene le parole potrebbe interpretare fischi per fiaschi. Ma è una macchina normale possa capitare.
 
 La trascrizione è memorizzata nel sistema per un numero massimo di giorni pari a 90.
-I limiti del servizio potrebbero subire cambiamenti nel tempo e verranno comunicati se siete registrati alla newsletter XXXX
+I limiti del servizio potrebbero subire cambiamenti nel tempo e verranno comunicati, seguitemi intanto sul canale telegram <a href="https://t.me/refacturingtranscribe" target="_blank">RefacturingTranscribe</a>
 
 ## Feedback/Supporto
 
