@@ -9,6 +9,18 @@ menu:
             text: Transcribe Docs
             # You can use relative urls
             relativeUrl: index.html
+        roadmap:
+            text: RoadMap
+            # You can use relative urls
+            relativeUrl: roadmap.html    
+        privacy:
+            text: Privacy Policy
+            # You can use relative urls
+            relativeUrl: privacy.html
+        service:
+            text: Servizio Transcribe
+            # Or absolute urls
+            absoluteUrl: https://transcribe.refacturing.com
         siti:
             text: Sito aziendale
             # Or absolute urls
