@@ -4,6 +4,12 @@ currentMenu: roadmap
 
 ## Progetto prima versione beta
 
+**Release Date:12/10/2020**
+
+* rimosso coupon acquisto gettoni
+* aggiunta barra di navigazione signin page
+<hr/> 
+
 **Release Date:05/10/2020**
 
 * nuovo upload file con area drag and drop

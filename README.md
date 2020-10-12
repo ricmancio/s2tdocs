@@ -42,13 +42,6 @@ Più è grande il file da sbobinare più gettoni occorrono.
 Per acquistare i gettoni si attiva una finestra  modale dove il pagamento avviene versando in un conto gestito dal sistema di pagamento Stripe, i gettoni si aggiungeranno tra i gettoni disponibili
 Nel caso terminino i gettoni, l’area di upload scompare finché non saranno riacquistati nuovi gettoni
 
-## Cosa serve il coupon
-
-Potete fare a meno di coupon per aggiungere gettoni.
-Il coupon non riduce il prezzo del piano scelto ma aggiunge gettoni a parità di prezzo del piano, quindi facciamo un esempio, se il piano che decidete di attivare è di 10 gettoni e pagate 10 euro, se siete in possesso di un coupon ancora attivo di 3 gettoni, continuerete a pagare 10 euro ma riceverete 13 gettoni invece che 10.
-
-Il coupon una volta utilizzato nel pagamento sarà disattivato e non potrete utilizzarlo una seconda volta.
-
 ## Upload
 
 I file supportati in questo momento sono con estensione e formato mp3 e il contenuto deve essere in lingua italiana
