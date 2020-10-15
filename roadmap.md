@@ -4,6 +4,12 @@ currentMenu: roadmap
 
 ## Progetto prima versione beta
 
+**Release Date:15/10/2020**
+
+* aggiunta scelta lingua tra italiano e inglese americano
+* ordinato dal più recente al meno recente
+<hr/> 
+
 **Release Date:12/10/2020**
 
 * rimosso coupon acquisto gettoni
