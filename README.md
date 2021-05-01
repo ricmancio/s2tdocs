@@ -45,7 +45,7 @@ Al momento potete comprendere il consumo sulla base di questi dati:
 * se la dimensione del file è compresa tra 60-90MB il consumo sarà di 3 crediti
 * se la dimensione del file è compresa 90-120MB il consumo sarà di  4 crediti
 * se la dimensione del file è >120MB ma minore di 150MB il consumo sarà di 5 crediti
-
+<br/><br/>
 ## Acquistare dei crediti
 
 Per acquistare i crediti si attiva una finestra  modale dove il pagamento avviene versando in un conto gestito dal sistema di pagamento Stripe, i gettoni si aggiungeranno tra i gettoni disponibili
@@ -54,8 +54,41 @@ Stiamo lavorando per inserire Paypal, se avete necessità di usare paypal scrive
 
 ## Upload
 
-I file supportati in questo momento sono con estensione e formato mp3 e il contenuto deve essere in lingua italiana
+I file supportati in questo momento sono con estensione e formato mp3 e il contenuto può essere in 31 lingue diverse.
+Di default al momento è Italiano ma potete scegliere tra le seguenti:
 
+* Gulf Arabic (ar-AE)
+* Modern Standard Arabic (ar-SA)
+* Mandarin Chinese – Mainland (zh-CN)
+* Dutch (nl-NL)
+* Australian English (en-AU)
+* British English (en-GB)
+* Indian English (en-IN)
+* Irish English (en-IE)
+* Scottish English (en-AB)
+* US English (en-US)
+* Welsh English (en-WL)
+* Spanish (es-ES)
+* US Spanish (es-US)
+* French (fr-FR)
+* Canadian French (fr-CA)
+* Farsi Persian (fa-IR)
+* German (de-DE)
+* Swiss German (de-CH)
+* Hebrew (he-IL)
+* Indian Hindi (hi-IN)
+* Indonesian (id-ID)
+* Italian (it-IT)
+* Japanese (ja-JP)
+* Korean (ko-KR)
+* Malay (ms-MY)
+* Portuguese (pt-PT)
+* Brazilian Portuguese (pt-BR)
+* Russian (ru-RU)
+* Tamil (ta-IN)
+* Telugu (te-IN)
+* Turkish (tr-TR)
+<br/><br/>
 ## Trascrizione
 
 Le trascrizioni al momento supportano solo la lingua italiana.
