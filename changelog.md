@@ -1,8 +1,14 @@
 ---
-currentMenu: roadmap
+currentMenu: changelog
 ---
 
-## Progetto prima versione beta
+## Changelog
+
+**Release Date:05/05/2021**
+
+* Rilascio in versione beta dell'editor per avere una correzione agevolata del testo, per ora basta copiare l'url pubblico dove si trova il file mp3 e selezionare la trascrizione associata generata su Transcribe
+
+<hr/> 
 
 **Release Date:30/04/2021**
 

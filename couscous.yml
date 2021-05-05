@@ -10,9 +10,9 @@ menu:
             # You can use relative urls
             relativeUrl: index.html
         roadmap:
-            text: RoadMap
+            text: Changelog
             # You can use relative urls
-            relativeUrl: roadmap.html    
+            relativeUrl: changelog.html    
         privacy:
             text: Privacy Policy
             # You can use relative urls
@@ -21,6 +21,10 @@ menu:
             text: Servizio Transcribe
             # Or absolute urls
             absoluteUrl: https://transcribe.refacturing.com
+        editor:
+            text: Servizio Editor
+            # Or absolute urls
+            absoluteUrl: editor.html    
         siti:
             text: Sito aziendale
             # Or absolute urls
