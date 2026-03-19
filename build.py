@@ -9,7 +9,7 @@ import yaml
 
 SITE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(SITE_DIR, '_site')
-BASE_URL = ''
+BASE_URL = os.environ.get('BASE_URL', '.')
 
 # Load config
 with open(os.path.join(SITE_DIR, 'couscous.yml')) as f:
@@ -37,6 +37,10 @@ def build_menu_html(current_menu):
 
 def render_template(content_html, current_menu):
     html = template
+
+    # Remove Twig comments {# ... #}
+    html = re.sub(r'\{#.*?#\}', '', html, flags=re.DOTALL)
+
     # Replace Twig variables
     html = html.replace('{{ title }}', title)
     html = re.sub(r"\{\{\s*title\|default\('The title'\)\s*\}\}", title, html)
