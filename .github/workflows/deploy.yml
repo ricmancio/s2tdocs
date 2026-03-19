@@ -19,22 +19,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup PHP
-        uses: shivammathur/setup-php@v2
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          php-version: '8.2'
-          tools: composer
+          python-version: '3.12'
 
-      - name: Install Couscous
-        run: composer global require couscous/couscous
+      - name: Install dependencies
+        run: pip install markdown pyyaml
 
       - name: Build site
-        run: couscous generate
+        run: python build.py
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .couscous/generated
+          path: _site
 
   deploy:
     environment:
