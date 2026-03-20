@@ -110,3 +110,11 @@ Come sempre se preferite usare Telegram, scrivetemi su t.me/riccardomancinelli
 Grazie
 
 Refacturing Staff
+
+---
+
+## 📬 Follow the Build Log
+
+I document every experiment, feature, and lesson learned building SnippetForm in my weekly newsletter.
+
+[![Stack Decisions](https://img.shields.io/badge/Stack%20Decisions-Follow%20the%20journey-orange?style=flat-square&logo=substack)](https://stackdecisions.substack.com)
